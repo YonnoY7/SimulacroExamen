@@ -1,0 +1,2 @@
+1- Nombre y apellidos
+2- Serie o pelicula, plataforma y recomendación
